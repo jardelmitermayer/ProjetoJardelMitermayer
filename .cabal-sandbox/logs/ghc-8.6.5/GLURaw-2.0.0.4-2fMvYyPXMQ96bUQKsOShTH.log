@@ -1,0 +1,8 @@
+Installing library in C:\Users\Jardel\Google Drive\UFS 2019.2\PF\exercicios\ProjetoJardelMitermayer\.cabal-sandbox\x86_64-windows-ghc-8.6.5\GLURaw-2.0.0.4-2fMvYyPXMQ96bUQKsOShTH
+c9fe8\build\Graphics\GLU\Callbacks.o )
+[2 of 6] Compiling Graphics.GLU.Tokens ( src\Graphics\GLU\Tokens.hs, dist\dist-sandbox-db4c9fe8\build\Graphics\GLU\Tokens.o )
+[3 of 6] Compiling Graphics.GLU.TypesInternal ( src\Graphics\GLU\TypesInternal.hs, dist\dist-sandbox-db4c9fe8\build\Graphics\GLU\TypesInternal.o )
+[4 of 6] Compiling Graphics.GLU.Types ( src\Graphics\GLU\Types.hs, dist\dist-sandbox-db4c9fe8\build\Graphics\GLU\Types.o )
+[5 of 6] Compiling Graphics.GLU.Functions ( src\Graphics\GLU\Functions.hs, dist\dist-sandbox-db4c9fe8\build\Graphics\GLU\Functions.o )
+[6 of 6] Compiling Graphics.GLU     ( src\Graphics\GLU.hs, dist\dist-sandbox-db4c9fe8\build\Graphics\GLU.o )
+cabal: Leaving directory 'C:\Users\Jardel\AppData\Local\Temp\cabal-tmp-1592\GLURaw-2.0.0.4'
